@@ -96,7 +96,7 @@ function sortUsersByUsername(usersArray) {
 }
 const users1 = [
     { username: "nunu_isi" },
-    { username: "alisa_safarli" },
+    { username: "alisha_ismayilzadaaa" },
     { username: "ismail_ismailzada" }
 ];
 
